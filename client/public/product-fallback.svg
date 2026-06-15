@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title description">
+  <title id="title">THREAD &amp; CO</title>
+  <desc id="description">Ảnh sản phẩm đang được cập nhật</desc>
+  <rect width="900" height="1200" fill="#e8e4da"/>
+  <path d="M225 392 360 285h180l135 107-76 117-74-53v411H375V456l-74 53z" fill="#f8f6f0" stroke="#b5aea0" stroke-width="6"/>
+  <text x="450" y="980" fill="#272924" font-family="Arial, sans-serif" font-size="42" text-anchor="middle" letter-spacing="8">THREAD &amp; CO</text>
+  <text x="450" y="1040" fill="#777268" font-family="Arial, sans-serif" font-size="22" text-anchor="middle">Hình ảnh đang được cập nhật</text>
+</svg>
